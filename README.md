@@ -1,6 +1,6 @@
 # HackCrypt – Hackathon Preliminary Round
 
-This repository is created for the **HackCrypt Hackathon – Preliminary Round(Concentual only)**.
+This repository is created for the **HackCrypt Hackathon – Preliminary Round(Conceptual only)**.
 
 ## About
 The preliminary round focuses on **problem understanding, analysis, and solution ideation** based on the theme provided by the organizers.
